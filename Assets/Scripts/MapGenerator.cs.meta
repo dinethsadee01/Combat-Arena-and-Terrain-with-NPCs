@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 95f50b48a6c01ea43ad9048c2fecf014
+labels:
+- Section1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - wallPrefab: {instanceID: 0}
+  - floorPrefab: {instanceID: 0}
+  - botAPrefab: {instanceID: 0}
+  - playerPrefab: {instanceID: 0}
+  - pathfinder: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
