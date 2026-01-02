@@ -67,7 +67,7 @@ If you find any bugs or have feature suggestions, feel free to open an issue.
 
 ## 📜 License
 This project is licensed under the MIT License.
-See the [LICENSE](https://github.com/dinethsadee01/Combat-Arena-and-Terrain-with-NPCs.git/blob/master/LICENSE) file for details.
+See the [LICENSE](https://github.com/dinethsadee01/Combat-Arena-and-Terrain-with-NPCs.git/blob/main/LICENSE) file for details.
 
 ---
 
